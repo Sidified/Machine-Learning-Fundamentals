@@ -1,0 +1,9 @@
+version,rmse
+A - Leaky preprocessing,0.7940126718808395
+B - Clean Pipeline,0.7940025051580039
+C - Leaky 5-fold CV,0.7756483632874381
+D - Clean 5-fold CV,0.7756452444236012
+E - OrdinalEncoder,0.7924253100320763
+F - OneHotEncoder,0.7940025051580039
+G - Leaky feature selection,0.7827644079917889
+H - Clean feature selection,0.7924006172502505
