@@ -1,0 +1,4 @@
+method,ARI
+K-Means (unscaled),0.37111371823084754
+K-Means (scaled),0.8974949815093207
+Hierarchical clustering,0.7899332213582837
